@@ -1,9 +1,9 @@
 {
- "version": "1.62.0",
+ "version": "1.64.0",
  "url": "https://raw.githubusercontent.com/claudioph98/memvia-aggiornamenti/main/Memvia.dmg",
- "sha256": "90598d87aa4a913dcb21f4aa5f218976e57419f0ec426bece7416d8384f75311",
- "size": 86659675,
- "notes": "Controllo della licenza ora in codice nativo compilato, non più leggibile",
+ "sha256": "f53721e06c8d803718876cc1c179dd7f0fa5246b402a4ac6ba5b3860236fdbf9",
+ "size": 86662527,
+ "notes": "Protezione della licenza rafforzata\nEsportazione più sicura",
  "date": "2026-11-11",
- "sig": "UrOiQA_Oo4-YLYu1rETFNjJOHOgEnv2j5asV6iOtYrpsxFEbpo6XnJoluUfrDR-Zk1whsE2IfsCXb8QObOwTOg"
+ "sig": "GtoLaghA_gbEjMwIpMROG9QYi_T6Y6nisCZoxpmsXhy-7PZ7jCuqpri5SfrwJkHG3Flry9akiUgVgVvwQvk0aw"
 }
