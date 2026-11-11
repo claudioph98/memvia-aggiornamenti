@@ -1,0 +1,9 @@
+{
+ "version": "1.59.0",
+ "url": "https://raw.githubusercontent.com/claudioph98/memvia-aggiornamenti/main/Memvia.dmg",
+ "sha256": "e5d41dea4c3f75e4290e0aa77510c4b8adf98aa883cb6120ace1e4644ba83f25",
+ "size": 86668161,
+ "notes": "Aggiornamenti automatici: Memvia si aggiorna da sola\nMenu Memvia › Controlla aggiornamenti…",
+ "date": "2026-11-11",
+ "sig": "h2bwKyHLM8O5wmTvW-aQqoqpJzLwbCczZNz751EiVh7MhSL-c4HOAbUkyDb24yXsE2Rtl4Vb_A3v2WrjcvZfcA"
+}
