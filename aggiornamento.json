@@ -1,9 +1,9 @@
 {
- "version": "1.60.0",
+ "version": "1.60.1",
  "url": "https://raw.githubusercontent.com/claudioph98/memvia-aggiornamenti/main/Memvia.dmg",
- "sha256": "f6ad19b357f74204c6cc5779b84c6e80a213e0e26a70fef16f0a0dc6401f75fd",
- "size": 86660761,
- "notes": "Al primo uso del Laboratorio scegli in quali laboratori stampi\nVedi solo copertine e colori dei tuoi laboratori\nAggiungi un laboratorio direttamente dalla scelta iniziale\nSpunta «Stampo qui» in Gestisci laboratori",
+ "sha256": "04190bba441f402b02b4c3009d7a0fe0ff1cfc6c627dfc445ec0cf6478c1658c",
+ "size": 86661176,
+ "notes": "La gestione delle licenze compare solo al creatore di Memvia\nIn quali laboratori stampi: scegli i tuoi laboratori",
  "date": "2026-11-11",
- "sig": "5CTJc4Oxjg-0FrK-MuyXuSECnRTJ4aw13MM0GDJiwGw5ul06Fd3mUiTzkff7X6x6-yTdgLVlESnANvDQSttCUQ"
+ "sig": "s7kwpsulnYXRAgg_Y26HvTaglR0DBsdMQyGP-5VtjPpHaLtJOQoyD9SxgU1EZ6bghsLCW-mW3okB0LU0jyfFjg"
 }
