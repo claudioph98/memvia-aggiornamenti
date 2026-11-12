@@ -1,9 +1,9 @@
 {
- "version": "1.64.0",
+ "version": "1.73.0",
  "url": "https://raw.githubusercontent.com/claudioph98/memvia-aggiornamenti/main/Memvia.dmg",
- "sha256": "f53721e06c8d803718876cc1c179dd7f0fa5246b402a4ac6ba5b3860236fdbf9",
- "size": 86662527,
- "notes": "Protezione della licenza rafforzata\nEsportazione più sicura",
- "date": "2026-11-11",
- "sig": "GtoLaghA_gbEjMwIpMROG9QYi_T6Y6nisCZoxpmsXhy-7PZ7jCuqpri5SfrwJkHG3Flry9akiUgVgVvwQvk0aw"
+ "sha256": "36d0f902130b80cde7b407d5558bd9aa3fe70e663527e09ef9765e476f2e84ee",
+ "size": 87207762,
+ "notes": "Loghi PNG del fotografo con posizione e dimensione ricordate\nTesto: rotazione, colore e ombra, interlinea fine\nLayout preferiti con la stellina e i tuoi layout per primi\nSalvataggio layout: scegli se aggiornare o crearne uno nuovo\nDimensione delle foto in centimetri\nFiligrana Memvia su JPG e PDF\nLogo Memvia nei video MP4\nInvio dell'album al laboratorio via email",
+ "date": "2026-11-12",
+ "sig": "8XdKYAgypMGU1tWTWZfyTzwMXTJGXNV5Wr2k_uYmcycH9U-_6J_TMWmCGw7kNdy3-IIvMheYj5c6u6-UfcqRew"
 }
