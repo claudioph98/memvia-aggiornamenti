@@ -1,20 +1,20 @@
 {
  "v": 1,
  "aggiornato": "2026-11-14",
- "body": "MVL1|C5CP-QB7F-AVYM:20271114:0;W2X9-QGM3-DTCS:20261212:0",
- "sig": "ZvVCzFjJnj2BllJ11WfrjjXR8ZMBkTW2qf_cxubFHBkGqlp_sOSaGNcmtgiDgXw-CDRqQVhlqR1o49S3Xp-HFg",
+ "body": "MVL1|C5CP-QB7F-AVYM:20271114:0;W2X9-QGM3-DTCS:20271114:0",
+ "sig": "VM-_pTy3XZxxSyqzgW3dQCqw4AzdAyp2p8A3eUwF184SPIXAVNwKJMFlgmvAspqlhjSYD9Dpswrq4zN6OuSq6g",
  "licenze": [
-  {
-   "id": "W2X9-QGM3-DTCS",
-   "serial": "MV-TF4Y-QC2H",
-   "name": "Ciccio Mascali",
-   "exp": "20261212",
-   "revoked": false
-  },
   {
    "id": "C5CP-QB7F-AVYM",
    "serial": "MV-HYUW-TWE2",
    "name": "Omar Abramo",
+   "exp": "20271114",
+   "revoked": false
+  },
+  {
+   "id": "W2X9-QGM3-DTCS",
+   "serial": "MV-ZEP3-35A9",
+   "name": "Ciccio Mascali",
    "exp": "20271114",
    "revoked": false
   }
