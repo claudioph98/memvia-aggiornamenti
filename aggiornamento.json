@@ -1,9 +1,9 @@
 {
- "version": "1.75.3",
+ "version": "1.76.0",
  "url": "https://raw.githubusercontent.com/claudioph98/memvia-aggiornamenti/main/Memvia.dmg",
- "sha256": "9b00a2b7d7f043ed5d3014b20788a982ff196a2e3d00d500345aef81994db81f",
- "size": 87216216,
- "notes": "Il layout salvato non sparisce più togliendo e rimettendo una foto\nSalvataggio layout: scegli se aggiornare quello esistente o crearne uno nuovo\nLayout preferiti con la stellina, i tuoi layout sempre per primi\nFiligrana Memvia (con la M del logo) su JPG e PDF e logo nei video\nDopo due rinvii, l'aggiornamento diventa necessario",
- "date": "2026-11-12",
- "sig": "ZjikFWRcxBhGduX5Xx_XC8ZG4Q4d5aJmGEbL0jUwFZJGsas7Gqhafq8uasyxr-cqgHwUdPAhaWzPPJkgGhZ1-Q"
+ "sha256": "66aed94ea20250d55bec271c31e184520cc829dd39d7ad54c42a0216b4e81fa3",
+ "size": 87202713,
+ "notes": "Attivazione automatica della licenza (senza incollare codici, basta internet)\nIl layout salvato non sparisce togliendo e rimettendo una foto\nSalvataggio layout: aggiorna quello esistente o creane uno nuovo\nFiligrana e logo nei video, preferiti dei layout\nMiglioramenti vari di stabilità",
+ "date": "2026-11-14",
+ "sig": "J4XDQhNc8NUWYY2lQgpDrPlEjaMsXCd5pwCQzyUn5Dkvqtfr31meWzaf3mKZee_RGgkp49dF2vwKJfxcVs_xSg"
 }
