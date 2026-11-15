@@ -1,9 +1,9 @@
 {
- "version": "1.76.0",
+ "version": "1.77.4",
  "url": "https://raw.githubusercontent.com/claudioph98/memvia-aggiornamenti/main/Memvia.dmg",
- "sha256": "66aed94ea20250d55bec271c31e184520cc829dd39d7ad54c42a0216b4e81fa3",
- "size": 87202713,
- "notes": "Attivazione automatica della licenza (senza incollare codici, basta internet)\nIl layout salvato non sparisce togliendo e rimettendo una foto\nSalvataggio layout: aggiorna quello esistente o creane uno nuovo\nFiligrana e logo nei video, preferiti dei layout\nMiglioramenti vari di stabilità",
- "date": "2026-11-14",
- "sig": "J4XDQhNc8NUWYY2lQgpDrPlEjaMsXCd5pwCQzyUn5Dkvqtfr31meWzaf3mKZee_RGgkp49dF2vwKJfxcVs_xSg"
+ "sha256": "e57a5b54c5db7bf2a4a23f4f31e13b1e6faceb1949f420d30dab289f95711223",
+ "size": 87250542,
+ "notes": "Apri l'intero interno in Photoshop e ritrova le modifiche al salvataggio\nVisita guidata su come funziona Memvia\nFiligrana e logo Memvia nei video",
+ "date": "2026-11-15",
+ "sig": "Fb_qCtbiDpeFGZ-BY5rKXRt9u_AmbNkBQsbzYg2kjL_8sjD6IW1UQMz7heoYE9aYngBsCQJgZ3naTu1SBDNRMw"
 }
