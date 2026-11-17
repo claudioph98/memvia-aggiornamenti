@@ -1,9 +1,9 @@
 {
- "version": "1.78.8",
+ "version": "1.78.11",
  "url": "https://raw.githubusercontent.com/claudioph98/memvia-aggiornamenti/main/Memvia.dmg",
- "sha256": "628ab0049101e5adc24f0cf230a91bd71232cd0863c5a9937fa33fd3bfbc13b3",
- "size": 87246674,
- "notes": "Le foto verticali restano verticali. La facciata ritoccata in Photoshop resta salvata nel progetto. Nuovo «Inserisci come copertina» (tasto destro). Finestre Licenza e Aggiornamenti rinnovate. Creazione progetto più semplice.",
+ "sha256": "5125d6c48855472165fd5747e662b366b79723b85ad48e09e2926ca34556944f",
+ "size": 87256686,
+ "notes": "Risolto un errore che bloccava l'esportazione. Le foto verticali restano verticali. La facciata ritoccata in Photoshop resta salvata nel progetto. Nuovo «Inserisci come copertina» (tasto destro).",
  "date": "2026-11-17",
- "sig": "UOZQaxIsGtBxXBc4SVFfhXFxN_y0od098nokC_LILoRvq82j_N8jWlFu2prg07ZaHxWdYwKncSeSpcrTGXrw5w"
+ "sig": "PgLwHbDCeI5EKBa8EfxjPyzDN3t1xXuGpnFVdJzptXwND0m7FDHrfDE2Y8_Z0zW02COMMVliJEWmdTugpx5kFA"
 }
