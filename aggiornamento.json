@@ -1,9 +1,9 @@
 {
- "version": "1.78.18",
- "url": "https://raw.githubusercontent.com/claudioph98/memvia-aggiornamenti/main/Memvia.dmg",
- "sha256": "c77ce01db5191642063165a2066acab8747b44f9fa7b8753af0df63b911dba4b",
- "size": 87258667,
+ "version": "1.78.19",
+ "url": "https://api.github.com/repos/claudioph98/memvia-aggiornamenti/contents/Memvia.dmg",
+ "sha256": "a67930364d2d78476860f80e4848a2affea48b0006447839a5221ea47c5301d0",
+ "size": 87258451,
  "notes": "Aprendo un file .memvia dal Finder si apre direttamente il progetto, con l'icona di Memvia.\nCreando un progetto dalle foto trascinate, puoi salvarlo in una sottocartella di quelle foto.\nSalvando un nuovo layout vengono memorizzate anche la cornice e l'opzione «solo dove copre un'altra foto».\nRidimensionamento delle foto: con ⌘ in proporzione su tutti i lati, senza ⌘ un lato alla volta, anche con più foto selezionate.\nIn basso è indicato quante foto sono effettivamente inserite nell'album.\nPuoi copiare, tagliare e incollare una scritta da un interno all'altro (tasto destro o ⌘C, ⌘X, ⌘V).\nIn esportazione, se un file è già presente puoi sostituirlo o mantenere entrambi, con la scelta valida per tutti i file.\nTrascinando una foto in un riquadro di orientamento diverso, Memvia chiede conferma invece di impedirlo.\nNuovo pulsante «Aggiungi foto» nella colonna delle fotografie.",
  "date": "2026-11-20",
- "sig": "ttGKZO2eEKd8b5oAh86eVNNU4HFqwfaWyNVK0eWxSBqaWl-CxUmb0SV8RkSaq9jNxxNbKcxq7XnLlD_zYbU0IQ"
+ "sig": "if2BNeT2XGkj2HGbu5x63FHmp80Sdd0FYUnBr2bL8GtYxtnRrv7806_fkrGS_8pwfCpDucUUH4dSRzRtO-uFdQ"
 }
