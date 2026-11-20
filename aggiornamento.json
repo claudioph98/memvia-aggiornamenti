@@ -1,9 +1,9 @@
 {
- "version": "1.78.11",
+ "version": "1.78.18",
  "url": "https://raw.githubusercontent.com/claudioph98/memvia-aggiornamenti/main/Memvia.dmg",
- "sha256": "5125d6c48855472165fd5747e662b366b79723b85ad48e09e2926ca34556944f",
- "size": 87256686,
- "notes": "Risolto un errore che bloccava l'esportazione. Le foto verticali restano verticali. La facciata ritoccata in Photoshop resta salvata nel progetto. Nuovo «Inserisci come copertina» (tasto destro).",
- "date": "2026-11-17",
- "sig": "PgLwHbDCeI5EKBa8EfxjPyzDN3t1xXuGpnFVdJzptXwND0m7FDHrfDE2Y8_Z0zW02COMMVliJEWmdTugpx5kFA"
+ "sha256": "c77ce01db5191642063165a2066acab8747b44f9fa7b8753af0df63b911dba4b",
+ "size": 87258667,
+ "notes": "Aprendo un file .memvia dal Finder si apre direttamente il progetto, con l'icona di Memvia.\nCreando un progetto dalle foto trascinate, puoi salvarlo in una sottocartella di quelle foto.\nSalvando un nuovo layout vengono memorizzate anche la cornice e l'opzione «solo dove copre un'altra foto».\nRidimensionamento delle foto: con ⌘ in proporzione su tutti i lati, senza ⌘ un lato alla volta, anche con più foto selezionate.\nIn basso è indicato quante foto sono effettivamente inserite nell'album.\nPuoi copiare, tagliare e incollare una scritta da un interno all'altro (tasto destro o ⌘C, ⌘X, ⌘V).\nIn esportazione, se un file è già presente puoi sostituirlo o mantenere entrambi, con la scelta valida per tutti i file.\nTrascinando una foto in un riquadro di orientamento diverso, Memvia chiede conferma invece di impedirlo.\nNuovo pulsante «Aggiungi foto» nella colonna delle fotografie.",
+ "date": "2026-11-20",
+ "sig": "ttGKZO2eEKd8b5oAh86eVNNU4HFqwfaWyNVK0eWxSBqaWl-CxUmb0SV8RkSaq9jNxxNbKcxq7XnLlD_zYbU0IQ"
 }
